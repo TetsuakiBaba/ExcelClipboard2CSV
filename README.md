@@ -1,0 +1,3 @@
+# ExcelClipboard2CSV
+
+エクセルのセルコピーCSVに変換するための簡単なjs
